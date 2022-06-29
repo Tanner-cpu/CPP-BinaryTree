@@ -1,3 +1,5 @@
+//This is the input file used for the binary tree 
+
 Brady Tom 485 719 5316 43 12
 Herbert Justin 443 672 5014 38 15
 Stafford Matthew 404 601 4886 41 17
