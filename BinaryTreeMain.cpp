@@ -1,5 +1,6 @@
 // Tanner Boswell
-// Binary Tree
+// Visual Studio version 2019
+// File: BinaryTreeMain.cpp
 
 // This program reads in a list of quarterbacks and their stats from a file and inserts them in a binary tree. 
 // It then reprints the structure of the binary tree on both the output file and screen. 
