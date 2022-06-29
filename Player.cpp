@@ -1,7 +1,5 @@
 // Tanner Boswell
-// November 14th, 2019
-// CS 221 - 01
-// Visual Studio Version 2017
+// Visual Studio Version 2019
 // File: Player.cpp
 
 #include "Player.h"
