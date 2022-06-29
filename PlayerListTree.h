@@ -1,4 +1,3 @@
-// Tanner Boswell
 // Visual Studio Version 2019
 // File: PlayerListTree.h
 
