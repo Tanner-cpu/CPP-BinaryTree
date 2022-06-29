@@ -1,7 +1,9 @@
 // Tanner Boswell
 // Binary Tree
 
-// This program reads in a list of quarterbacks and their stats from a file and inserts them in a binary tree. It then reprints the structure of the binary tree on both the output file and screen. Lastly, it prints the contents of the list in descending order on the screen and in ascending order on the output file. 
+// This program reads in a list of quarterbacks and their stats from a file and inserts them in a binary tree. 
+// It then reprints the structure of the binary tree on both the output file and screen. 
+// Lastly, it prints the contents of the list in descending order on the screen and in ascending order on the output file. 
 
 #include "PlayerListTree.h"
 #include "Player.h"
