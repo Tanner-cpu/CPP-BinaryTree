@@ -1,0 +1,37 @@
+THE STRUCTURE OF YOUR BINARY TREE 
+
+-: Tom, Brady
+    L: Justin, Herbert
+        L: Derek, Carr
+            L: Dak, Prescott
+                L: Aaron, Rodgers
+                    L: NULL
+                    R: NULL
+                R: NULL
+            R: Joe, Burrow
+                L: NULL
+                R: Josh, Allen
+                    L: NULL
+                    R: NULL
+        R: Matthew, Stafford
+            L: Kirk, Cousins
+                L: NULL
+                R: NULL
+            R: Patrick, Mahomes
+                L: NULL
+                R: NULL
+    R: NULL
+ 
+ 
+THE CONTENTS OF YOUR TREE WRITTEN IN ASCENDING ORDER 
+
+Aaron, Rodgers
+Dak, Prescott
+Derek, Carr
+Joe, Burrow
+Josh, Allen
+Justin, Herbert
+Kirk, Cousins
+Matthew, Stafford
+Patrick, Mahomes
+Tom, Brady
