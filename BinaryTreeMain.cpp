@@ -1,4 +1,3 @@
-// Tanner Boswell
 // Visual Studio version 2019
 // File: BinaryTreeMain.cpp
 
