@@ -1,5 +1,3 @@
-
-// Tanner Boswell
 // Visual Studio Version 2019
 // File: Player.h 
 
